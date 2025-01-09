@@ -1,7 +1,7 @@
 from modules import crud
 
 def main():
-    print("Hola CRUD Application")
+    print("Mi aplicacion del CRUD")
     while True:
         print("\nMenu:")
         print("1. Create Record")
